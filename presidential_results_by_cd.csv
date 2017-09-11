@@ -1,0 +1,436 @@
+cd,stateabbr,geography,id,state,id2,clinton2016,trump2016,obama2012,romney2012,obama2008,mccain2008
+"AL-01","AL","Congressional District 1 (114th Congress), Alabama","01",1,101,34.1,63.5,37.4,61.8,38.5,60.9
+"AL-02","AL","Congressional District 2 (114th Congress), Alabama","02",1,102,33,64.9,36.4,62.9,35,64.5
+"AL-03","AL","Congressional District 3 (114th Congress), Alabama","03",1,103,32.3,65.3,36.8,62.3,36.6,62.6
+"AL-04","AL","Congressional District 4 (114th Congress), Alabama","04",1,104,17.4,80.4,24,74.8,25.5,73.3
+"AL-05","AL","Congressional District 5 (114th Congress), Alabama","05",1,105,31.3,64.7,34.9,63.9,36.3,62.6
+"AL-06","AL","Congressional District 6 (114th Congress), Alabama","06",1,106,26.1,70.8,24.7,74.3,25,74.1
+"AL-07","AL","Congressional District 7 (114th Congress), Alabama","07",1,107,69.8,28.6,72.4,27.1,71.5,28.1
+"AK-AL","AK","Congressional District (at Large) (114th Congress), Alaska","01",2,201,37.6,52.8,41.2,55.3,38.1,59.7
+"AZ-01","AZ","Congressional District 1 (114th Congress), Arizona","01",4,401,46.6,47.7,47.9,50.4,47.8,51
+"AZ-02","AZ","Congressional District 2 (114th Congress), Arizona","02",4,402,49.6,44.7,48.4,49.9,48.9,49.8
+"AZ-03","AZ","Congressional District 3 (114th Congress), Arizona","03",4,403,62.4,32.5,61.4,36.9,58.2,40.7
+"AZ-04","AZ","Congressional District 4 (114th Congress), Arizona","04",4,404,27.5,67.7,31,67.2,34.4,64.2
+"AZ-05","AZ","Congressional District 5 (114th Congress), Arizona","05",4,405,36.5,57.6,34.6,63.8,36.3,62.6
+"AZ-06","AZ","Congressional District 6 (114th Congress), Arizona","06",4,406,42.4,52.4,38.8,59.5,41.2,57.7
+"AZ-07","AZ","Congressional District 7 (114th Congress), Arizona","07",4,407,71.8,22.6,71.7,26.5,64.7,34.1
+"AZ-08","AZ","Congressional District 8 (114th Congress), Arizona","08",4,408,37,58.1,36.9,61.7,38.4,60.6
+"AZ-09","AZ","Congressional District 9 (114th Congress), Arizona","09",4,409,54.7,38.4,51.1,46.6,51.3,47.4
+"AR-01","AR","Congressional District 1 (114th Congress), Arkansas","01",5,501,30.2,65,36.3,61,39.2,58
+"AR-02","AR","Congressional District 2 (114th Congress), Arkansas","02",5,502,41.7,52.4,42.9,54.7,44.3,53.8
+"AR-03","AR","Congressional District 3 (114th Congress), Arkansas","03",5,503,30.5,61.9,31.6,65.5,33.9,63.7
+"AR-04","AR","Congressional District 4 (114th Congress), Arkansas","04",5,504,31.3,64.2,35.9,61.8,37.4,59.9
+"CA-01","CA","Congressional District 1 (114th Congress), California","01",6,601,36.5,56.2,40.3,56.6,42,53
+"CA-02","CA","Congressional District 2 (114th Congress), California","02",6,602,69,23.3,69,27,71,25
+"CA-03","CA","Congressional District 3 (114th Congress), California","03",6,603,53,40.4,54.3,43.1,55,42
+"CA-04","CA","Congressional District 4 (114th Congress), California","04",6,604,39.3,54,39.5,57.9,43,54
+"CA-05","CA","Congressional District 5 (114th Congress), California","05",6,605,69.2,24.3,69.7,27.5,70,26
+"CA-06","CA","Congressional District 6 (114th Congress), California","06",6,606,69.2,24.4,69.1,28.3,68,29
+"CA-07","CA","Congressional District 7 (114th Congress), California","07",6,607,52.3,40.9,50.8,46.8,51,46
+"CA-08","CA","Congressional District 8 (114th Congress), California","08",6,608,39.6,54.7,41.7,55.6,42,55
+"CA-09","CA","Congressional District 9 (114th Congress), California","09",6,609,56.6,38,57.8,40.1,56,41
+"CA-10","CA","Congressional District 10 (114th Congress), California","10",6,610,48.5,45.5,50.6,47,50,47
+"CA-11","CA","Congressional District 11 (114th Congress), California","11",6,611,71.5,22.7,67.6,30,69,28
+"CA-12","CA","Congressional District 12 (114th Congress), California","12",6,612,86.2,8.7,84.1,12.5,84,13
+"CA-13","CA","Congressional District 13 (114th Congress), California","13",6,613,87.4,6.8,87.5,9,87,10
+"CA-14","CA","Congressional District 14 (114th Congress), California","14",6,614,76.9,18.2,74.2,23.6,73,24
+"CA-15","CA","Congressional District 15 (114th Congress), California","15",6,615,69.9,24.2,68,29.8,67,30
+"CA-16","CA","Congressional District 16 (114th Congress), California","16",6,616,58,36.4,58.6,39.4,57,40
+"CA-17","CA","Congressional District 17 (114th Congress), California","17",6,617,73.9,20.5,71.9,25.5,69,28
+"CA-18","CA","Congressional District 18 (114th Congress), California","18",6,618,73.4,20.2,68.2,28.9,70,27
+"CA-19","CA","Congressional District 19 (114th Congress), California","19",6,619,72.9,21.5,71.2,26.5,68,29
+"CA-20","CA","Congressional District 20 (114th Congress), California","20",6,620,70.4,23.2,70.9,26.2,71,26
+"CA-21","CA","Congressional District 21 (114th Congress), California","21",6,621,55.2,39.7,54.6,43.5,52,46
+"CA-22","CA","Congressional District 22 (114th Congress), California","22",6,622,42.6,52.1,41.6,56.6,42,55
+"CA-23","CA","Congressional District 23 (114th Congress), California","23",6,623,36.1,58.1,36.1,61.5,36,61
+"CA-24","CA","Congressional District 24 (114th Congress), California","24",6,624,56.7,36.5,54.1,43.1,56,41
+"CA-25","CA","Congressional District 25 (114th Congress), California","25",6,625,50.3,43.6,47.8,49.7,49,48
+"CA-26","CA","Congressional District 26 (114th Congress), California","26",6,626,57.9,36,54,43.7,56,41
+"CA-27","CA","Congressional District 27 (114th Congress), California","27",6,627,66,28.4,62.6,35,61,35
+"CA-28","CA","Congressional District 28 (114th Congress), California","28",6,628,72.1,22.3,70.3,26.5,70,26
+"CA-29","CA","Congressional District 29 (114th Congress), California","29",6,629,77.7,16.8,77,20.5,74,23
+"CA-30","CA","Congressional District 30 (114th Congress), California","30",6,630,69.1,25.7,65.3,32.1,66,31
+"CA-31","CA","Congressional District 31 (114th Congress), California","31",6,631,57.7,36.6,57.2,40.6,56,41
+"CA-32","CA","Congressional District 32 (114th Congress), California","32",6,632,66.6,27.7,65.2,32.5,62,35
+"CA-33","CA","Congressional District 33 (114th Congress), California","33",6,633,67.8,26.5,60.6,36.8,64,33
+"CA-34","CA","Congressional District 34 (114th Congress), California","34",6,634,83.6,10.7,83,14.1,77,19
+"CA-35","CA","Congressional District 35 (114th Congress), California","35",6,635,67.7,26.9,67.4,30.6,64,32
+"CA-36","CA","Congressional District 36 (114th Congress), California","36",6,636,52.2,43.4,50.7,47.5,50,47
+"CA-37","CA","Congressional District 37 (114th Congress), California","37",6,637,85.7,9.6,84.9,12.7,84,13
+"CA-38","CA","Congressional District 38 (114th Congress), California","38",6,638,67,27.4,64.9,33,61,35
+"CA-39","CA","Congressional District 39 (114th Congress), California","39",6,639,51.5,42.9,47.1,50.8,47,49
+"CA-40","CA","Congressional District 40 (114th Congress), California","40",6,640,82.2,12.8,81.5,16.5,77,19
+"CA-41","CA","Congressional District 41 (114th Congress), California","41",6,641,61,33.1,61.5,36.3,59,38
+"CA-42","CA","Congressional District 42 (114th Congress), California","42",6,642,41.4,53.4,41.4,56.5,43,54
+"CA-43","CA","Congressional District 43 (114th Congress), California","43",6,643,78.4,16.7,78,20,75,22
+"CA-44","CA","Congressional District 44 (114th Congress), California","44",6,644,83,12.3,84.7,13.6,81,16
+"CA-45","CA","Congressional District 45 (114th Congress), California","45",6,645,49.8,44.4,43,54.8,46,51
+"CA-46","CA","Congressional District 46 (114th Congress), California","46",6,646,66.3,27.9,61.4,36.2,58,39
+"CA-47","CA","Congressional District 47 (114th Congress), California","47",6,647,62.6,31,60,37.5,58,39
+"CA-48","CA","Congressional District 48 (114th Congress), California","48",6,648,47.9,46.2,43,54.7,46,51
+"CA-49","CA","Congressional District 49 (114th Congress), California","49",6,649,50.7,43.2,45.7,52.4,49,48
+"CA-50","CA","Congressional District 50 (114th Congress), California","50",6,650,39.6,54.6,37.6,60.4,39,58
+"CA-51","CA","Congressional District 51 (114th Congress), California","51",6,651,71.8,22.8,69.4,28.9,65,32
+"CA-52","CA","Congressional District 52 (114th Congress), California","52",6,652,58.1,35.6,52.1,45.7,55,43
+"CA-53","CA","Congressional District 53 (114th Congress), California","53",6,653,64.5,29.6,61.4,36.4,61,36
+"CO-01","CO","Congressional District 1 (114th Congress), Colorado","01",8,801,69,23.2,69,28.8,70.9,27.6
+"CO-02","CO","Congressional District 2 (114th Congress), Colorado","02",8,802,56.2,34.9,57.9,39.5,61.2,37.2
+"CO-03","CO","Congressional District 3 (114th Congress), Colorado","03",8,803,40,52,45.8,51.8,48.4,49.9
+"CO-04","CO","Congressional District 4 (114th Congress), Colorado","04",8,804,34.3,57.4,39.2,58.5,41.9,56.4
+"CO-05","CO","Congressional District 5 (114th Congress), Colorado","05",8,805,33.2,57.2,38.3,59.1,39.7,58.8
+"CO-06","CO","Congressional District 6 (114th Congress), Colorado","06",8,806,50.2,41.3,51.6,46.5,53.6,44.9
+"CO-07","CO","Congressional District 7 (114th Congress), Colorado","07",8,807,51.4,39.4,56.1,41.3,57.4,40.7
+"CT-01","CT","Congressional District 1 (114th Congress), Connecticut","01",9,901,59.4,36.3,63.3,35.6,65.8,32.9
+"CT-02","CT","Congressional District 2 (114th Congress), Connecticut","02",9,902,48.7,45.8,55.9,42.6,58.6,40
+"CT-03","CT","Congressional District 3 (114th Congress), Connecticut","03",9,903,55.9,40.4,62.6,36.3,62.6,36.2
+"CT-04","CT","Congressional District 4 (114th Congress), Connecticut","04",9,904,59.6,36.6,55.1,44,59.6,39.7
+"CT-05","CT","Congressional District 5 (114th Congress), Connecticut","05",9,905,49.9,45.8,53.5,45.3,56.4,42.4
+"DE-AL","DE","Congressional District (at Large) (114th Congress), Delaware","01",10,1001,53.4,41.9,58.6,40,61.9,36.9
+"FL-01","FL","Congressional District 1 (114th Congress), Florida","01",12,1201,28.2,67.5,30.1,68.5,32,66.8
+"FL-02","FL","Congressional District 2 (114th Congress), Florida","02",12,1202,30.6,66.2,34,64.6,35.2,63.4
+"FL-03","FL","Congressional District 3 (114th Congress), Florida","03",12,1203,40.2,56.2,41.9,56.6,44.2,54.6
+"FL-04","FL","Congressional District 4 (114th Congress), Florida","04",12,1204,34.1,62.1,32.8,66.1,34.8,64.2
+"FL-05","FL","Congressional District 5 (114th Congress), Florida","05",12,1205,61.3,35.9,63.6,35.4,63.2,35.9
+"FL-06","FL","Congressional District 6 (114th Congress), Florida","06",12,1206,39.9,56.9,46.6,52.2,50.1,48.7
+"FL-07","FL","Congressional District 7 (114th Congress), Florida","07",12,1207,51.4,44.1,49.4,49.4,51.1,48
+"FL-08","FL","Congressional District 8 (114th Congress), Florida","08",12,1208,37.7,58.4,42.1,56.6,43.8,54.9
+"FL-09","FL","Congressional District 9 (114th Congress), Florida","09",12,1209,54.8,41.9,55.6,43.4,54.6,44.5
+"FL-10","FL","Congressional District 10 (114th Congress), Florida","10",12,1210,61.8,34.9,60.7,38.4,60.9,38.5
+"FL-11","FL","Congressional District 11 (114th Congress), Florida","11",12,1211,32.5,64.8,39.8,59.2,42.6,56.1
+"FL-12","FL","Congressional District 12 (114th Congress), Florida","12",12,1212,38.8,57.4,45.5,53,47.4,51.2
+"FL-13","FL","Congressional District 13 (114th Congress), Florida","13",12,1213,49.6,46.4,54.6,43.9,55.5,43
+"FL-14","FL","Congressional District 14 (114th Congress), Florida","14",12,1214,57.2,39,57.6,41.2,58.1,40.9
+"FL-15","FL","Congressional District 15 (114th Congress), Florida","15",12,1215,43.1,53.1,46.6,52.2,46.7,52.1
+"FL-16","FL","Congressional District 16 (114th Congress), Florida","16",12,1216,43,53.7,45.1,53.7,47.7,51.2
+"FL-17","FL","Congressional District 17 (114th Congress), Florida","17",12,1217,35,62.2,41.3,57.6,43.9,54.7
+"FL-18","FL","Congressional District 18 (114th Congress), Florida","18",12,1218,44.1,53.3,47.7,51.4,51.2,47.9
+"FL-19","FL","Congressional District 19 (114th Congress), Florida","19",12,1219,37.5,59.6,38.7,60.5,42.3,56.8
+"FL-20","FL","Congressional District 20 (114th Congress), Florida","20",12,1220,80.2,18.1,82.5,17.1,80.9,18.6
+"FL-21","FL","Congressional District 21 (114th Congress), Florida","21",12,1221,58.6,39.1,60.4,38.9,63.4,35.9
+"FL-22","FL","Congressional District 22 (114th Congress), Florida","22",12,1222,56.8,41,56.3,43,58.3,41
+"FL-23","FL","Congressional District 23 (114th Congress), Florida","23",12,1223,61.9,35.8,61.4,38,62,37.3
+"FL-24","FL","Congressional District 24 (114th Congress), Florida","24",12,1224,82.9,15.4,85.7,13.9,84,15.6
+"FL-25","FL","Congressional District 25 (114th Congress), Florida","25",12,1225,47.9,49.7,44.9,54.5,40.6,58.8
+"FL-26","FL","Congressional District 26 (114th Congress), Florida","26",12,1226,56.8,40.5,55.4,43.9,51.5,47.9
+"FL-27","FL","Congressional District 27 (114th Congress), Florida","27",12,1227,58.5,38.9,53,46.3,50.1,49.3
+"GA-01","GA","Congressional District 1 (114th Congress), Georgia","01",13,1301,40.9,56.4,43,55.9,44.4,55
+"GA-02","GA","Congressional District 2 (114th Congress), Georgia","02",13,1302,55,43.3,58.6,40.8,57.9,41.6
+"GA-03","GA","Congressional District 3 (114th Congress), Georgia","03",13,1303,32.8,64.3,33,65.9,34,65.3
+"GA-04","GA","Congressional District 4 (114th Congress), Georgia","04",13,1304,75.3,22.2,73.6,25.6,73.2,26.3
+"GA-05","GA","Congressional District 5 (114th Congress), Georgia","05",13,1305,85,11.9,83.1,15.8,84.4,15
+"GA-06","GA","Congressional District 6 (114th Congress), Georgia","06",13,1306,46.8,48.3,37.5,60.8,40.1,59
+"GA-07","GA","Congressional District 7 (114th Congress), Georgia","07",13,1307,44.8,51.1,38.3,60.2,39.1,60.1
+"GA-08","GA","Congressional District 8 (114th Congress), Georgia","08",13,1308,34.4,63.3,37.5,61.6,37.8,61.6
+"GA-09","GA","Congressional District 9 (114th Congress), Georgia","09",13,1309,19.3,77.8,20.5,78.1,24.3,74.7
+"GA-10","GA","Congressional District 10 (114th Congress), Georgia","10",13,1310,35.8,61.3,36.3,62.5,38.8,60.4
+"GA-11","GA","Congressional District 11 (114th Congress), Georgia","11",13,1311,35.3,60.3,31.5,66.9,34.7,64.3
+"GA-12","GA","Congressional District 12 (114th Congress), Georgia","12",13,1312,40.7,56.9,43.6,55.4,43.9,55.6
+"GA-13","GA","Congressional District 13 (114th Congress), Georgia","13",13,1313,71,26.6,69.2,30,67.1,32.3
+"GA-14","GA","Congressional District 14 (114th Congress), Georgia","14",13,1314,22.1,75,25.3,73.2,27.8,71
+"HI-01","HI","Congressional District 1 (114th Congress), Hawaii","01",15,1501,63.1,30.5,69.7,29,70.3,28.3
+"HI-02","HI","Congressional District 2 (114th Congress), Hawaii","02",15,1502,61.4,29.6,71.4,26.7,73.4,24.9
+"ID-01","ID","Congressional District 1 (114th Congress), Idaho","01",16,1601,25.4,63.7,32.2,64.9,35.1,62.5
+"ID-02","ID","Congressional District 2 (114th Congress), Idaho","02",16,1602,29.8,54.5,33.1,64.1,37.1,60.5
+"IL-01","IL","Congressional District 1 (114th Congress), Illinois","01",17,1701,75.4,21.4,79,20.2,80.8,18.5
+"IL-02","IL","Congressional District 2 (114th Congress), Illinois","02",17,1702,78,19.1,80.7,18.5,81.1,18.2
+"IL-03","IL","Congressional District 3 (114th Congress), Illinois","03",17,1703,55.2,39.9,55.9,42.6,58.3,40.4
+"IL-04","IL","Congressional District 4 (114th Congress), Illinois","04",17,1704,82.1,13.2,80.9,17.1,80.5,18.2
+"IL-05","IL","Congressional District 5 (114th Congress), Illinois","05",17,1705,70.5,23.9,66,31.8,69.9,28.8
+"IL-06","IL","Congressional District 6 (114th Congress), Illinois","06",17,1706,50.2,43.2,45.1,53.3,51.3,47.3
+"IL-07","IL","Congressional District 7 (114th Congress), Illinois","07",17,1707,87.4,9.2,87.2,11.8,89.4,9.9
+"IL-08","IL","Congressional District 8 (114th Congress), Illinois","08",17,1708,58.1,36.4,57.4,40.9,61.5,37.1
+"IL-09","IL","Congressional District 9 (114th Congress), Illinois","09",17,1709,70.1,24.9,65,33.3,68.6,30.3
+"IL-10","IL","Congressional District 10 (114th Congress), Illinois","10",17,1710,62,32.6,57.5,41.1,63,35.9
+"IL-11","IL","Congressional District 11 (114th Congress), Illinois","11",17,1711,58.9,35.4,57.8,40.6,61.3,37.5
+"IL-12","IL","Congressional District 12 (114th Congress), Illinois","12",17,1712,40.2,55,49.7,48.2,54.7,43.6
+"IL-13","IL","Congressional District 13 (114th Congress), Illinois","13",17,1713,44.2,49.7,48.6,48.9,54.6,43.6
+"IL-14","IL","Congressional District 14 (114th Congress), Illinois","14",17,1714,44.8,48.7,44.2,54.2,50.7,48
+"IL-15","IL","Congressional District 15 (114th Congress), Illinois","15",17,1715,24.5,70.7,34.1,63.9,42.8,55.4
+"IL-16","IL","Congressional District 16 (114th Congress), Illinois","16",17,1716,38.3,55.5,45.2,52.9,50,48.2
+"IL-17","IL","Congressional District 17 (114th Congress), Illinois","17",17,1717,46.7,47.4,57.6,40.6,60,38.5
+"IL-18","IL","Congressional District 18 (114th Congress), Illinois","18",17,1718,33.3,60.6,37.4,60.7,44.1,54.4
+"IN-01","IN","Congressional District 1 (114th Congress), Indiana","01",18,1801,54.1,41.5,61.2,37.4,63.3,35.8
+"IN-02","IN","Congressional District 2 (114th Congress), Indiana","02",18,1802,36.1,59.3,42.1,56.1,49.6,49.3
+"IN-03","IN","Congressional District 3 (114th Congress), Indiana","03",18,1803,30.1,65.1,35.7,62.5,43,56
+"IN-04","IN","Congressional District 4 (114th Congress), Indiana","04",18,1804,30.2,64.3,36.9,60.9,44.6,54.2
+"IN-05","IN","Congressional District 5 (114th Congress), Indiana","05",18,1805,41.3,53.1,40.7,57.5,46.6,52.6
+"IN-06","IN","Congressional District 6 (114th Congress), Indiana","06",18,1806,27.4,67.7,37.3,60.4,43.6,55
+"IN-07","IN","Congressional District 7 (114th Congress), Indiana","07",18,1807,59,36.2,62.9,35.4,66.3,32.8
+"IN-08","IN","Congressional District 8 (114th Congress), Indiana","08",18,1808,30.9,64.6,39.6,58.4,48.1,50.6
+"IN-09","IN","Congressional District 9 (114th Congress), Indiana","09",18,1809,34.2,61.1,40.7,57.2,46.2,52.7
+"IA-01","IA","Congressional District 1 (114th Congress), Iowa","01",19,1901,45.2,48.7,56.2,42.5,58.5,40.4
+"IA-02","IA","Congressional District 2 (114th Congress), Iowa","02",19,1902,45,49.1,55.8,42.7,57.1,41.6
+"IA-03","IA","Congressional District 3 (114th Congress), Iowa","03",19,1903,45,48.5,51.4,47.2,52.4,46.3
+"IA-04","IA","Congressional District 4 (114th Congress), Iowa","04",19,1904,33.5,60.9,45.3,53.4,48.5,50.2
+"KS-01","KS","Congressional District 1 (114th Congress), Kansas","01",20,2001,24.3,69.3,27.6,70.1,31,67.2
+"KS-02","KS","Congressional District 2 (114th Congress), Kansas","02",20,2002,37.4,55.8,42,55.6,45.3,52.8
+"KS-03","KS","Congressional District 3 (114th Congress), Kansas","03",20,2003,47.2,46,44.3,53.8,48.8,49.9
+"KS-04","KS","Congressional District 4 (114th Congress), Kansas","04",20,2004,33,60.2,36.1,61.6,39.5,58.6
+"KY-01","KY","Congressional District 1 (114th Congress), Kentucky","01",21,2101,23.9,72.4,32.1,66.4,36.9,61.6
+"KY-02","KY","Congressional District 2 (114th Congress), Kentucky","02",21,2102,27.6,67.5,35.1,63.3,37.2,61.5
+"KY-03","KY","Congressional District 3 (114th Congress), Kentucky","03",21,2103,54.9,39.9,55.7,42.8,56.2,42.8
+"KY-04","KY","Congressional District 4 (114th Congress), Kentucky","04",21,2104,29.3,65.2,34.8,63.4,37,61.5
+"KY-05","KY","Congressional District 5 (114th Congress), Kentucky","05",21,2105,17.5,79.6,23.2,75,31.6,66.6
+"KY-06","KY","Congressional District 6 (114th Congress), Kentucky","06",21,2106,39.4,54.7,42.2,55.8,44.8,53.7
+"LA-01","LA","Congressional District 1 (114th Congress), Louisiana","01",22,2201,26.7,68.7,26.9,70.9,25.3,72.7
+"LA-02","LA","Congressional District 2 (114th Congress), Louisiana","02",22,2202,74.6,22.2,75.8,22.8,73.4,25.4
+"LA-03","LA","Congressional District 3 (114th Congress), Louisiana","03",22,2203,29.2,67.3,32.3,66.1,34.1,64.2
+"LA-04","LA","Congressional District 4 (114th Congress), Louisiana","04",22,2204,36.6,60.6,39.7,59,39.9,58.9
+"LA-05","LA","Congressional District 5 (114th Congress), Louisiana","05",22,2205,34.1,63.5,37.7,61,36.7,62
+"LA-06","LA","Congressional District 6 (114th Congress), Louisiana","06",22,2206,31,64.8,32,66.1,30.9,67.5
+"ME-01","ME","Congressional District 1 (114th Congress), Maine","01",23,2301,54.1,39.3,59.6,38.2,60.7,37.5
+"ME-02","ME","Congressional District 2 (114th Congress), Maine","02",23,2302,41.1,51.4,52.9,44.4,54.6,43.4
+"MD-01","MD","Congressional District 1 (114th Congress), Maryland","01",24,2401,33.4,62,37.7,60.4,38.4,59.6
+"MD-02","MD","Congressional District 2 (114th Congress), Maryland","02",24,2402,60.1,35.7,63.1,35,60.6,37.5
+"MD-03","MD","Congressional District 3 (114th Congress), Maryland","03",24,2403,62.8,32.3,60.7,37.1,60.1,38
+"MD-04","MD","Congressional District 4 (114th Congress), Maryland","04",24,2404,77.2,19.7,78.1,20.8,77.3,21.8
+"MD-05","MD","Congressional District 5 (114th Congress), Maryland","05",24,2405,64.1,32.1,66.1,32.4,65.1,33.6
+"MD-06","MD","Congressional District 6 (114th Congress), Maryland","06",24,2406,55.3,40.2,55.2,42.8,56.3,42
+"MD-07","MD","Congressional District 7 (114th Congress), Maryland","07",24,2407,75.8,20.2,76.2,22.3,76.2,22.4
+"MD-08","MD","Congressional District 8 (114th Congress), Maryland","08",24,2408,65,30.6,62,36,62.8,35.6
+"MA-01","MA","Congressional District 1 (114th Congress), Massachusetts","01",25,2501,57.2,36.5,64,34.3,64.1,33.7
+"MA-02","MA","Congressional District 2 (114th Congress), Massachusetts","02",25,2502,56.2,36.8,58.7,39.2,60.4,37.5
+"MA-03","MA","Congressional District 3 (114th Congress), Massachusetts","03",25,2503,58.2,35.4,56.9,41.4,58.8,39.4
+"MA-04","MA","Congressional District 4 (114th Congress), Massachusetts","04",25,2504,59.2,35,57.1,41.3,60.4,37.9
+"MA-05","MA","Congressional District 5 (114th Congress), Massachusetts","05",25,2505,69.3,25.7,65.2,33.1,66.2,32.1
+"MA-06","MA","Congressional District 6 (114th Congress), Massachusetts","06",25,2506,56.1,38.2,54.7,43.9,56.9,41.4
+"MA-07","MA","Congressional District 7 (114th Congress), Massachusetts","07",25,2507,84.1,11.9,82.5,15.6,81.9,16.7
+"MA-08","MA","Congressional District 8 (114th Congress), Massachusetts","08",25,2508,60.4,34.4,57.8,40.8,57.9,40.5
+"MA-09","MA","Congressional District 9 (114th Congress), Massachusetts","09",25,2509,52.5,41.8,55.5,43.1,57.8,40.6
+"MI-01","MI","Congressional District 1 (114th Congress), Michigan","01",26,2601,36.6,57.9,45.3,53.6,49.7,48.4
+"MI-02","MI","Congressional District 2 (114th Congress), Michigan","02",26,2602,38.2,55.8,43.1,56,48,50.3
+"MI-03","MI","Congressional District 3 (114th Congress), Michigan","03",26,2603,42.2,51.6,45.8,53.1,49.7,48.6
+"MI-04","MI","Congressional District 4 (114th Congress), Michigan","04",26,2604,34.7,59.5,45.5,53.5,49.6,48.6
+"MI-05","MI","Congressional District 5 (114th Congress), Michigan","05",26,2605,49.7,45.5,60.7,38.3,63,35.3
+"MI-06","MI","Congressional District 6 (114th Congress), Michigan","06",26,2606,42.9,51.3,48.8,50.2,53.1,45.2
+"MI-07","MI","Congressional District 7 (114th Congress), Michigan","07",26,2607,38.7,55.7,47.9,51,50.8,47.4
+"MI-08","MI","Congressional District 8 (114th Congress), Michigan","08",26,2608,43.9,50.6,48,51.1,52,46.4
+"MI-09","MI","Congressional District 9 (114th Congress), Michigan","09",26,2609,51.5,43.7,57.2,41.9,58.1,40.1
+"MI-10","MI","Congressional District 10 (114th Congress), Michigan","10",26,2610,31.6,63.8,43.7,55.3,48,50
+"MI-11","MI","Congressional District 11 (114th Congress), Michigan","11",26,2611,45.3,49.7,46.9,52.3,50.2,48.3
+"MI-12","MI","Congressional District 12 (114th Congress), Michigan","12",26,2612,60.8,34.5,66.2,32.8,66.9,31.4
+"MI-13","MI","Congressional District 13 (114th Congress), Michigan","13",26,2613,78.8,18.1,85.2,14.3,84.8,14.2
+"MI-14","MI","Congressional District 14 (114th Congress), Michigan","14",26,2614,79.2,18.3,81,18.6,82.2,17.1
+"MN-01","MN","Congressional District 1 (114th Congress), Minnesota","01",27,2701,38.4,53.3,49.6,48.2,50.8,46.7
+"MN-02","MN","Congressional District 2 (114th Congress), Minnesota","02",27,2702,45.3,46.5,49.1,49,50.5,47.6
+"MN-03","MN","Congressional District 3 (114th Congress), Minnesota","03",27,2703,50.8,41.4,49.6,48.8,51,47.4
+"MN-04","MN","Congressional District 4 (114th Congress), Minnesota","04",27,2704,61.5,30.6,62.5,35.5,62.6,35.5
+"MN-05","MN","Congressional District 5 (114th Congress), Minnesota","05",27,2705,73.7,18.5,73.5,24,73.4,24.5
+"MN-06","MN","Congressional District 6 (114th Congress), Minnesota","06",27,2706,33.2,58.9,41.5,56.5,43.2,54.7
+"MN-07","MN","Congressional District 7 (114th Congress), Minnesota","07",27,2707,31,61.8,44.1,53.9,47.1,50.4
+"MN-08","MN","Congressional District 8 (114th Congress), Minnesota","08",27,2708,38.6,54.2,51.7,46.2,53.1,44.5
+"MS-01","MS","Congressional District 1 (114th Congress), Mississippi","01",28,2801,32.4,65.4,37,61.9,36.6,62.4
+"MS-02","MS","Congressional District 2 (114th Congress), Mississippi","02",28,2802,63.6,35.1,66.4,33,64.2,35.2
+"MS-03","MS","Congressional District 3 (114th Congress), Mississippi","03",28,2803,36.8,61.3,39.1,60,38.4,60.8
+"MS-04","MS","Congressional District 4 (114th Congress), Mississippi","04",28,2804,28.2,69.4,31.2,67.6,31.1,67.9
+"MO-01","MO","Congressional District 1 (114th Congress), Missouri","01",29,2901,77,18.8,79.9,18.9,80.3,18.6
+"MO-02","MO","Congressional District 2 (114th Congress), Missouri","02",29,2902,42.3,52.6,41.4,57.1,46.4,52.6
+"MO-03","MO","Congressional District 3 (114th Congress), Missouri","03",29,2903,28.1,67.1,36.1,62,42.8,55.8
+"MO-04","MO","Congressional District 4 (114th Congress), Missouri","04",29,2904,29.3,65.3,36.4,61.2,41.9,56.5
+"MO-05","MO","Congressional District 5 (114th Congress), Missouri","05",29,2905,54.1,40.6,58.9,39.4,62,36.8
+"MO-06","MO","Congressional District 6 (114th Congress), Missouri","06",29,2906,31.7,63.1,37.9,60,43.1,55.3
+"MO-07","MO","Congressional District 7 (114th Congress), Missouri","07",29,2907,24.7,70.4,30.3,67.6,35.3,63.1
+"MO-08","MO","Congressional District 8 (114th Congress), Missouri","08",29,2908,21,75.4,32,65.9,38.3,60
+"MT-AL","MT","Congressional District (at Large) (114th Congress), Montana","01",30,3001,35.9,56.5,41.7,55.4,47.3,49.5
+"NE-01","NE","Congressional District 1 (114th Congress), Nebraska","01",31,3101,36.2,57.5,40.8,57.4,44.2,54.3
+"NE-02","NE","Congressional District 2 (114th Congress), Nebraska","02",31,3102,46,48.2,45.7,52.9,50,48.8
+"NE-03","NE","Congressional District 3 (114th Congress), Nebraska","03",31,3103,20,74.9,27.8,70.2,31.1,67.1
+"NV-01","NV","Congressional District 1 (114th Congress), Nevada","01",32,3201,61.6,32.6,65.6,32.4,64.5,33
+"NV-02","NV","Congressional District 2 (114th Congress), Nevada","02",32,3202,39.7,52,44.8,52.9,49.4,48.2
+"NV-03","NV","Congressional District 3 (114th Congress), Nevada","03",32,3203,46.5,47.5,49.5,48.7,53.5,44.6
+"NV-04","NV","Congressional District 4 (114th Congress), Nevada","04",32,3204,49.5,44.6,54.4,43.7,56.4,41.4
+"NH-01","NH","Congressional District 1 (114th Congress), New Hampshire","01",33,3301,46.6,48.2,50.2,48.6,52.8,46.4
+"NH-02","NH","Congressional District 2 (114th Congress), New Hampshire","02",33,3302,48.6,46.2,54.2,44.5,56,43.1
+"NJ-01","NJ","Congressional District 1 (114th Congress), New Jersey","01",34,3401,60.6,36.1,65.1,33.8,64.7,34.2
+"NJ-02","NJ","Congressional District 2 (114th Congress), New Jersey","02",34,3402,46,50.6,53.5,45.4,53.2,45.5
+"NJ-03","NJ","Congressional District 3 (114th Congress), New Jersey","03",34,3403,45.2,51.4,51.8,47.2,51.1,47.7
+"NJ-04","NJ","Congressional District 4 (114th Congress), New Jersey","04",34,3404,41,55.8,44.7,54.2,45.3,53.6
+"NJ-05","NJ","Congressional District 5 (114th Congress), New Jersey","05",34,3405,47.7,48.8,47.9,51,48.5,50.5
+"NJ-06","NJ","Congressional District 6 (114th Congress), New Jersey","06",34,3406,56.2,40.6,61.4,37.4,58.4,40.5
+"NJ-07","NJ","Congressional District 7 (114th Congress), New Jersey","07",34,3407,48.6,47.5,46.3,52.5,47.2,51.6
+"NJ-08","NJ","Congressional District 8 (114th Congress), New Jersey","08",34,3408,75.7,21.5,78.3,20.7,73.2,26
+"NJ-09","NJ","Congressional District 9 (114th Congress), New Jersey","09",34,3409,64.3,33.1,68.3,30.8,64,35.2
+"NJ-10","NJ","Congressional District 10 (114th Congress), New Jersey","10",34,3410,85.2,12.8,87.9,11.5,84.9,14.6
+"NJ-11","NJ","Congressional District 11 (114th Congress), New Jersey","11",34,3411,47.9,48.8,46.6,52.4,47,52.1
+"NJ-12","NJ","Congressional District 12 (114th Congress), New Jersey","12",34,3412,65,31.8,66.5,32.4,65.7,33.3
+"NM-01","NM","Congressional District 1 (114th Congress), New Mexico","01",35,3501,51.6,35.1,55.3,39.6,59.7,39
+"NM-02","NM","Congressional District 2 (114th Congress), New Mexico","02",35,3502,39.9,50.1,44.9,51.7,48.4,50.2
+"NM-03","NM","Congressional District 3 (114th Congress), New Mexico","03",35,3503,51.8,36.7,57.5,38.7,61.2,37.5
+"NY-01","NY","Congressional District 1 (114th Congress), New York","01",36,3601,42.2,54.5,49.6,49.1,51,48
+"NY-02","NY","Congressional District 2 (114th Congress), New York","02",36,3602,43.9,53,51.6,47.2,51,48
+"NY-03","NY","Congressional District 3 (114th Congress), New York","03",36,3603,51.6,45.5,50.8,48.2,54,46
+"NY-04","NY","Congressional District 4 (114th Congress), New York","04",36,3604,53.4,43.8,56.3,42.8,55,44
+"NY-05","NY","Congressional District 5 (114th Congress), New York","05",36,3605,85.7,12.7,90.6,9.1,86,14
+"NY-06","NY","Congressional District 6 (114th Congress), New York","06",36,3606,65.1,32.1,67.8,31,63,36
+"NY-07","NY","Congressional District 7 (114th Congress), New York","07",36,3607,86.9,10.4,88.4,10.3,84,15
+"NY-08","NY","Congressional District 8 (114th Congress), New York","08",36,3608,84.6,13.5,89.2,10.2,86,14
+"NY-09","NY","Congressional District 9 (114th Congress), New York","09",36,3609,83.5,14.4,85.2,13.9,84,15
+"NY-10","NY","Congressional District 10 (114th Congress), New York","10",36,3610,78.3,18.8,73.6,25.1,76,23
+"NY-11","NY","Congressional District 11 (114th Congress), New York","11",36,3611,43.8,53.6,51.6,47.3,48,51
+"NY-12","NY","Congressional District 12 (114th Congress), New York","12",36,3612,83.3,13.5,76.9,21.5,80,19
+"NY-13","NY","Congressional District 13 (114th Congress), New York","13",36,3613,92.3,5.4,94.6,4.6,93,6
+"NY-14","NY","Congressional District 14 (114th Congress), New York","14",36,3614,77.7,19.8,80.7,18.3,76,23
+"NY-15","NY","Congressional District 15 (114th Congress), New York","15",36,3615,93.8,4.9,96.7,3,95,5
+"NY-16","NY","Congressional District 16 (114th Congress), New York","16",36,3616,75.1,22.5,73.7,25.5,73,26
+"NY-17","NY","Congressional District 17 (114th Congress), New York","17",36,3617,58.6,38.4,57.1,41.9,58,41
+"NY-18","NY","Congressional District 18 (114th Congress), New York","18",36,3618,47.1,49,51.4,47.1,52,47
+"NY-19","NY","Congressional District 19 (114th Congress), New York","19",36,3619,44,50.8,52.1,45.9,53,45
+"NY-20","NY","Congressional District 20 (114th Congress), New York","20",36,3620,54,40.5,59.2,38.8,58,40
+"NY-21","NY","Congressional District 21 (114th Congress), New York","21",36,3621,40,53.9,52.2,46.1,52,47
+"NY-22","NY","Congressional District 22 (114th Congress), New York","22",36,3622,39.3,54.8,48.8,49.2,49,49
+"NY-23","NY","Congressional District 23 (114th Congress), New York","23",36,3623,39.7,54.5,48.4,49.6,50,49
+"NY-24","NY","Congressional District 24 (114th Congress), New York","24",36,3624,48.9,45.3,57,41.1,56,42
+"NY-25","NY","Congressional District 25 (114th Congress), New York","25",36,3625,55.5,39.1,58.8,39.4,59,40
+"NY-26","NY","Congressional District 26 (114th Congress), New York","26",36,3626,57.6,38,63.9,34.3,63,35
+"NY-27","NY","Congressional District 27 (114th Congress), New York","27",36,3627,35.2,59.7,42.9,55.3,44,54
+"NC-01","NC","Congressional District 1 (114th Congress), North Carolina","01",37,3701,67.5,30.5,68.6,31.4,67.3,32.2
+"NC-02","NC","Congressional District 2 (114th Congress), North Carolina","02",37,3702,43.6,53.2,43.5,56.5,44.8,54.3
+"NC-03","NC","Congressional District 3 (114th Congress), North Carolina","03",37,3703,36.9,60.5,41,59,42.4,56.8
+"NC-04","NC","Congressional District 4 (114th Congress), North Carolina","04",37,3704,68.2,28.2,65.4,34.6,65.8,33.2
+"NC-05","NC","Congressional District 5 (114th Congress), North Carolina","05",37,3705,39.8,57.4,42.8,57.2,44.6,54.2
+"NC-06","NC","Congressional District 6 (114th Congress), North Carolina","06",37,3706,41.4,56.1,43.6,56.4,45.2,53.8
+"NC-07","NC","Congressional District 7 (114th Congress), North Carolina","07",37,3707,39.9,57.6,43.6,56.4,44.6,54.6
+"NC-08","NC","Congressional District 8 (114th Congress), North Carolina","08",37,3708,41.1,56.1,44.8,55.2,45.3,53.9
+"NC-09","NC","Congressional District 9 (114th Congress), North Carolina","09",37,3709,42.8,54.4,44.2,55.8,45.2,54
+"NC-10","NC","Congressional District 10 (114th Congress), North Carolina","10",37,3710,36.4,61,40.9,59.1,41.6,57.4
+"NC-11","NC","Congressional District 11 (114th Congress), North Carolina","11",37,3711,34,63.2,39.6,60.4,41.5,57.1
+"NC-12","NC","Congressional District 12 (114th Congress), North Carolina","12",37,3712,68.4,28.4,68.4,31.6,68,31.3
+"NC-13","NC","Congressional District 13 (114th Congress), North Carolina","13",37,3713,44,53.4,46.6,53.4,47.9,51.2
+"ND-AL","ND","Congressional District (at Large) (114th Congress), North Dakota","01",38,3801,27.7,64.1,38.9,58.7,44.6,53.3
+"OH-01","OH","Congressional District 1 (114th Congress), Ohio","01",39,3901,44.6,51.2,46.3,52.4,47.2,51.8
+"OH-02","OH","Congressional District 2 (114th Congress), Ohio","02",39,3902,39.7,55.8,43.7,54.7,44.3,54.2
+"OH-03","OH","Congressional District 3 (114th Congress), Ohio","03",39,3903,67,28.6,69.7,28.9,67.4,31.3
+"OH-04","OH","Congressional District 4 (114th Congress), Ohio","04",39,3904,30.7,64.3,42,56,43.7,54.4
+"OH-05","OH","Congressional District 5 (114th Congress), Ohio","05",39,3905,34.6,59.7,44.1,53.9,46,52.2
+"OH-06","OH","Congressional District 6 (114th Congress), Ohio","06",39,3906,26.7,69.3,42.7,55.2,44.7,53.1
+"OH-07","OH","Congressional District 7 (114th Congress), Ohio","07",39,3907,32.8,62.5,44.2,53.7,46.9,50.9
+"OH-08","OH","Congressional District 8 (114th Congress), Ohio","08",39,3908,30.6,65.1,36.4,61.9,38.1,60.3
+"OH-09","OH","Congressional District 9 (114th Congress), Ohio","09",39,3909,58.7,36.5,67.6,30.9,66.8,31.6
+"OH-10","OH","Congressional District 10 (114th Congress), Ohio","10",39,3910,44,51.3,48.2,50.1,49.3,49.3
+"OH-11","OH","Congressional District 11 (114th Congress), Ohio","11",39,3911,80.5,17,82.8,16.5,82,17.2
+"OH-12","OH","Congressional District 12 (114th Congress), Ohio","12",39,3912,41.9,53.2,43.9,54.4,44.8,53.7
+"OH-13","OH","Congressional District 13 (114th Congress), Ohio","13",39,3913,51.1,44.6,62.9,35.4,62.3,35.8
+"OH-14","OH","Congressional District 14 (114th Congress), Ohio","14",39,3914,42.1,53.6,47.6,50.9,49.1,49.4
+"OH-15","OH","Congressional District 15 (114th Congress), Ohio","15",39,3915,39.9,55.3,46.3,51.9,46.1,52.2
+"OH-16","OH","Congressional District 16 (114th Congress), Ohio","16",39,3916,39.5,56.1,45.2,53.4,47.2,51.3
+"OK-01","OK","Congressional District 1 (114th Congress), Oklahoma","01",40,4001,32.7,61.4,34.2,65.8,35.8,64.2
+"OK-02","OK","Congressional District 2 (114th Congress), Oklahoma","02",40,4002,22.8,72.9,32.2,67.8,34.3,65.7
+"OK-03","OK","Congressional District 3 (114th Congress), Oklahoma","03",40,4003,20.9,73.6,26.1,73.9,27.1,72.9
+"OK-04","OK","Congressional District 4 (114th Congress), Oklahoma","04",40,4004,28.3,65.7,32.9,67.1,33.9,66.1
+"OK-05","OK","Congressional District 5 (114th Congress), Oklahoma","05",40,4005,39.8,53.2,40.8,59.2,40.8,59.2
+"OR-01","OR","Congressional District 1 (114th Congress), Oregon","01",41,4101,57.3,34.5,57.3,40,59.6,37.7
+"OR-02","OR","Congressional District 2 (114th Congress), Oregon","02",41,4102,36.4,56.5,40.5,56.8,43.3,53.8
+"OR-03","OR","Congressional District 3 (114th Congress), Oregon","03",41,4103,70.7,22.5,72,24.7,72.9,24.3
+"OR-04","OR","Congressional District 4 (114th Congress), Oregon","04",41,4104,46.1,46,51.7,45,54.2,42.7
+"OR-05","OR","Congressional District 5 (114th Congress), Oregon","05",41,4105,48.3,44.1,50.5,47.1,53,44.2
+"PA-01","PA","Congressional District 1 (114th Congress), Pennsylvania","01",42,4201,79.5,18.2,82.3,16.9,78.7,20.6
+"PA-02","PA","Congressional District 2 (114th Congress), Pennsylvania","02",42,4202,90.4,7.6,90.4,9,91,8.8
+"PA-03","PA","Congressional District 3 (114th Congress), Pennsylvania","03",42,4203,35,61.1,43,55.6,46.3,52.3
+"PA-04","PA","Congressional District 4 (114th Congress), Pennsylvania","04",42,4204,37.1,58.6,41.5,57.1,45.1,53.8
+"PA-05","PA","Congressional District 5 (114th Congress), Pennsylvania","05",42,4205,33.5,62.3,41.5,57.1,47.1,51.5
+"PA-06","PA","Congressional District 6 (114th Congress), Pennsylvania","06",42,4206,48.2,47.6,48.1,50.6,53,46
+"PA-07","PA","Congressional District 7 (114th Congress), Pennsylvania","07",42,4207,49.3,47,48.5,50.4,51.2,47.8
+"PA-08","PA","Congressional District 8 (114th Congress), Pennsylvania","08",42,4208,48,48.2,49.3,49.4,53.2,45.7
+"PA-09","PA","Congressional District 9 (114th Congress), Pennsylvania","09",42,4209,27.2,69.7,35.9,62.8,40.9,57.9
+"PA-10","PA","Congressional District 10 (114th Congress), Pennsylvania","10",42,4210,30.2,66.1,38.4,60.1,42.3,56.5
+"PA-11","PA","Congressional District 11 (114th Congress), Pennsylvania","11",42,4211,36.2,60,44.5,53.9,47.1,51.7
+"PA-12","PA","Congressional District 12 (114th Congress), Pennsylvania","12",42,4212,37.9,58.7,40.9,57.8,44.7,54.1
+"PA-13","PA","Congressional District 13 (114th Congress), Pennsylvania","13",42,4213,65.3,31.7,66.2,32.9,65.4,33.7
+"PA-14","PA","Congressional District 14 (114th Congress), Pennsylvania","14",42,4214,66,30.5,68,30.6,67,32
+"PA-15","PA","Congressional District 15 (114th Congress), Pennsylvania","15",42,4215,44.2,51.8,47.9,50.8,52.1,46.6
+"PA-16","PA","Congressional District 16 (114th Congress), Pennsylvania","16",42,4216,44.2,51,46.3,52.4,50.1,49
+"PA-17","PA","Congressional District 17 (114th Congress), Pennsylvania","17",42,4217,43.3,53.4,55.4,43.3,56.9,41.9
+"PA-18","PA","Congressional District 18 (114th Congress), Pennsylvania","18",42,4218,38.5,58.1,41,57.9,43.8,55.2
+"RI-01","RI","Congressional District 1 (114th Congress), Rhode Island","01",44,4401,60.5,34.9,66.2,32.2,66.6,31.8
+"RI-02","RI","Congressional District 2 (114th Congress), Rhode Island","02",44,4402,51.1,44,59.8,38.3,59.9,38.3
+"SC-01","SC","Congressional District 1 (114th Congress), South Carolina","01",45,4501,40.4,53.5,40.2,58.3,42.7,56.1
+"SC-02","SC","Congressional District 2 (114th Congress), South Carolina","02",45,4502,38.6,56.3,39.4,59.1,39.4,59.5
+"SC-03","SC","Congressional District 3 (114th Congress), South Carolina","03",45,4503,29,67,33.9,64.5,35.1,63.5
+"SC-04","SC","Congressional District 4 (114th Congress), South Carolina","04",45,4504,34.5,60.2,36.2,62.2,37.7,60.6
+"SC-05","SC","Congressional District 5 (114th Congress), South Carolina","05",45,4505,38.8,57.3,43.6,55.1,43.8,55
+"SC-06","SC","Congressional District 6 (114th Congress), South Carolina","06",45,4506,66.8,30.3,70.9,28.1,70.1,28.9
+"SC-07","SC","Congressional District 7 (114th Congress), South Carolina","07",45,4507,39.1,58,44.4,54.5,45.3,53.6
+"SD-AL","SD","Congressional District (at Large) (114th Congress), South Dakota","01",46,4601,31.7,61.5,39.9,57.9,44.7,53.2
+"TN-01","TN","Congressional District 1 (114th Congress), Tennessee","01",47,4701,19.7,76.7,25.7,72.7,28.6,69.9
+"TN-02","TN","Congressional District 2 (114th Congress), Tennessee","02",47,4702,29.7,65.1,30.9,67.3,34.5,64
+"TN-03","TN","Congressional District 3 (114th Congress), Tennessee","03",47,4703,30.2,65.4,35.1,63.3,37.3,61.3
+"TN-04","TN","Congressional District 4 (114th Congress), Tennessee","04",47,4704,27.4,68.6,33.1,65.3,35.8,62.6
+"TN-05","TN","Congressional District 5 (114th Congress), Tennessee","05",47,4705,56.6,38.2,55.9,42.5,57.5,41.3
+"TN-06","TN","Congressional District 6 (114th Congress), Tennessee","06",47,4706,23.7,72.6,29.5,69.1,33.5,64.9
+"TN-07","TN","Congressional District 7 (114th Congress), Tennessee","07",47,4707,28.2,67.5,32.9,65.7,36.3,62.4
+"TN-08","TN","Congressional District 8 (114th Congress), Tennessee","08",47,4708,30.7,66.3,32.8,66.1,34.9,64.1
+"TN-09","TN","Congressional District 9 (114th Congress), Tennessee","09",47,4709,77.5,19.8,78.3,20.9,77,22.5
+"TX-01","TX","Congressional District 1 (114th Congress), Texas","01",48,4801,25.3,72.2,27.5,71.6,30,69
+"TX-02","TX","Congressional District 2 (114th Congress), Texas","02",48,4802,43.1,52.4,35.6,62.9,37,62
+"TX-03","TX","Congressional District 3 (114th Congress), Texas","03",48,4803,40.6,54.8,34.2,64.3,37,61
+"TX-04","TX","Congressional District 4 (114th Congress), Texas","04",48,4804,21.8,75.4,24.8,74,29,70
+"TX-05","TX","Congressional District 5 (114th Congress), Texas","05",48,4805,34.3,62.7,34.4,64.5,37,62
+"TX-06","TX","Congressional District 6 (114th Congress), Texas","06",48,4806,41.9,54.2,40.8,57.9,42,57
+"TX-07","TX","Congressional District 7 (114th Congress), Texas","07",48,4807,48.5,47.1,38.6,59.9,40,59
+"TX-08","TX","Congressional District 8 (114th Congress), Texas","08",48,4808,23.9,72.7,21.7,77,26,73
+"TX-09","TX","Congressional District 9 (114th Congress), Texas","09",48,4809,79.3,18,78,21.1,76,23
+"TX-10","TX","Congressional District 10 (114th Congress), Texas","10",48,4810,43.2,52.3,38.8,59.1,43,56
+"TX-11","TX","Congressional District 11 (114th Congress), Texas","11",48,4811,19.1,77.8,19.6,79.2,23,76
+"TX-12","TX","Congressional District 12 (114th Congress), Texas","12",48,4812,32.7,62.9,31.7,66.8,35,64
+"TX-13","TX","Congressional District 13 (114th Congress), Texas","13",48,4813,16.9,79.9,18.5,80.2,22,77
+"TX-14","TX","Congressional District 14 (114th Congress), Texas","14",48,4814,38.4,58.2,39.5,59.3,42,57
+"TX-15","TX","Congressional District 15 (114th Congress), Texas","15",48,4815,56.7,40,57.4,41.5,57,42
+"TX-16","TX","Congressional District 16 (114th Congress), Texas","16",48,4816,67.9,27.2,64.2,34.5,64,35
+"TX-17","TX","Congressional District 17 (114th Congress), Texas","17",48,4817,38.8,56.3,37.7,60.4,41,58
+"TX-18","TX","Congressional District 18 (114th Congress), Texas","18",48,4818,76.5,20,76.1,22.8,77,23
+"TX-19","TX","Congressional District 19 (114th Congress), Texas","19",48,4819,23.5,72.5,25,73.6,28,71
+"TX-20","TX","Congressional District 20 (114th Congress), Texas","20",48,4820,61,34.3,58.9,39.7,58,41
+"TX-21","TX","Congressional District 21 (114th Congress), Texas","21",48,4821,42.5,52.5,37.9,59.8,42,56
+"TX-22","TX","Congressional District 22 (114th Congress), Texas","22",48,4822,44.2,52.1,36.7,62.1,39,60
+"TX-23","TX","Congressional District 23 (114th Congress), Texas","23",48,4823,49.8,46.4,48.1,50.7,50,49
+"TX-24","TX","Congressional District 24 (114th Congress), Texas","24",48,4824,44.5,50.7,38,60.4,41,58
+"TX-25","TX","Congressional District 25 (114th Congress), Texas","25",48,4825,40.2,55.1,37.8,59.9,43,56
+"TX-26","TX","Congressional District 26 (114th Congress), Texas","26",48,4826,34.4,60.9,30.7,67.6,35,64
+"TX-27","TX","Congressional District 27 (114th Congress), Texas","27",48,4827,36.5,60.1,38.2,60.5,40,59
+"TX-28","TX","Congressional District 28 (114th Congress), Texas","28",48,4828,58.3,38.5,60.3,38.7,58,41
+"TX-29","TX","Congressional District 29 (114th Congress), Texas","29",48,4829,71.1,25.4,65.9,33,62,37
+"TX-30","TX","Congressional District 30 (114th Congress), Texas","30",48,4830,79.1,18.3,79.6,19.6,78,21
+"TX-31","TX","Congressional District 31 (114th Congress), Texas","31",48,4831,40.8,53.5,38.3,59.6,43,56
+"TX-32","TX","Congressional District 32 (114th Congress), Texas","32",48,4832,48.5,46.6,41.5,57,44,55
+"TX-33","TX","Congressional District 33 (114th Congress), Texas","33",48,4833,72.9,23.7,72,27.1,69,31
+"TX-34","TX","Congressional District 34 (114th Congress), Texas","34",48,4834,59.2,37.7,60.8,38.3,60,39
+"TX-35","TX","Congressional District 35 (114th Congress), Texas","35",48,4835,64.1,30.5,63,34.6,63,35
+"TX-36","TX","Congressional District 36 (114th Congress), Texas","36",48,4836,25.2,72,25.7,73.2,30,69
+"UT-01","UT","Congressional District 1 (114th Congress), Utah","01",49,4901,22.4,49.7,20.4,77.4,29.4,67.7
+"UT-02","UT","Congressional District 2 (114th Congress), Utah","02",49,4902,32,46,29.2,68,38.4,58.5
+"UT-03","UT","Congressional District 3 (114th Congress), Utah","03",49,4903,23.3,47.2,19.5,78.3,29.5,67.5
+"UT-04","UT","Congressional District 4 (114th Congress), Utah","04",49,4904,32.4,39.1,30.2,67.2,40.9,56.1
+"VT-AL","VT","Congressional District (at Large) (114th Congress), Vermont","01",50,5001,56.7,30.3,67,31.2,67.8,30.6
+"VA-01","VA","Congressional District 1 (114th Congress), Virginia","01",51,5101,41.2,53.6,43.8,56.2,43.8,55.4
+"VA-02","VA","Congressional District 2 (114th Congress), Virginia","02",51,5102,45.4,48.8,48.8,51.2,47.9,51.1
+"VA-03","VA","Congressional District 3 (114th Congress), Virginia","03",51,5103,63.6,31.9,67.9,32.1,65.4,33.9
+"VA-04","VA","Congressional District 4 (114th Congress), Virginia","04",51,5104,58.7,37.1,60.9,39.1,60.1,39.1
+"VA-05","VA","Congressional District 5 (114th Congress), Virginia","05",51,5105,42.3,53.4,46.2,53.8,46.8,52.2
+"VA-06","VA","Congressional District 6 (114th Congress), Virginia","06",51,5106,34.9,59.7,39.9,60.1,41.2,57.7
+"VA-07","VA","Congressional District 7 (114th Congress), Virginia","07",51,5107,44,50.5,44.4,55.6,44.9,54.3
+"VA-08","VA","Congressional District 8 (114th Congress), Virginia","08",51,5108,73.5,20.9,67.7,32.3,66.3,32.8
+"VA-09","VA","Congressional District 9 (114th Congress), Virginia","09",51,5109,27.3,68.8,35.7,64.3,39.7,58.9
+"VA-10","VA","Congressional District 10 (114th Congress), Virginia","10",51,5110,52.2,42.2,49.2,50.8,49.6,49.6
+"VA-11","VA","Congressional District 11 (114th Congress), Virginia","11",51,5111,66.9,27.5,62.7,37.3,60.7,38.5
+"WA-01","WA","Congressional District 1 (114th Congress), Washington","01",53,5301,54.1,37.8,54.1,43.3,56.3,41.9
+"WA-02","WA","Congressional District 2 (114th Congress), Washington","02",53,5302,56.9,34.8,59.2,38,60.5,37.6
+"WA-03","WA","Congressional District 3 (114th Congress), Washington","03",53,5303,42.5,49.9,47.9,49.6,50.9,47.1
+"WA-04","WA","Congressional District 4 (114th Congress), Washington","04",53,5304,35.1,57.9,37.9,59.7,39.2,58.9
+"WA-05","WA","Congressional District 5 (114th Congress), Washington","05",53,5305,39.1,52.2,43.7,53.5,46.3,51.2
+"WA-06","WA","Congressional District 6 (114th Congress), Washington","06",53,5306,51.8,39.5,56.1,41.2,57,40.9
+"WA-07","WA","Congressional District 7 (114th Congress), Washington","07",53,5307,82.1,12.2,79.2,18.1,80.4,18
+"WA-08","WA","Congressional District 8 (114th Congress), Washington","08",53,5308,47.7,44.7,49.7,48.1,51.5,46.8
+"WA-09","WA","Congressional District 9 (114th Congress), Washington","09",53,5309,70.5,23.3,68.3,29.6,68.6,29.9
+"WA-10","WA","Congressional District 10 (114th Congress), Washington","10",53,5310,51.3,39.9,56.3,41.1,57.2,41
+"WV-01","WV","Congressional District 1 (114th Congress), West Virginia","01",54,5401,26.4,68,35.5,62.2,41.5,56.7
+"WV-02","WV","Congressional District 2 (114th Congress), West Virginia","02",54,5402,29.4,65.8,38,60,43.9,54.7
+"WV-03","WV","Congressional District 3 (114th Congress), West Virginia","03",54,5403,23.3,72.5,32.8,65,42.3,55.7
+"WI-01","WI","Congressional District 1 (114th Congress), Wisconsin","01",55,5501,42.3,52.6,47.4,51.6,50.8,48.1
+"WI-02","WI","Congressional District 2 (114th Congress), Wisconsin","02",55,5502,65.8,29,68.3,30.5,70.1,28.6
+"WI-03","WI","Congressional District 3 (114th Congress), Wisconsin","03",55,5503,44.8,49.3,54.8,43.8,59.4,39.1
+"WI-04","WI","Congressional District 4 (114th Congress), Wisconsin","04",55,5504,74,21.8,75.3,23.8,74.4,24.6
+"WI-05","WI","Congressional District 5 (114th Congress), Wisconsin","05",55,5505,37.3,57.4,37.7,61.3,41.8,57.2
+"WI-06","WI","Congressional District 6 (114th Congress), Wisconsin","06",55,5506,38.8,55.7,45.8,53.1,49.4,49.3
+"WI-07","WI","Congressional District 7 (114th Congress), Wisconsin","07",55,5507,37.3,57.8,47.8,50.9,53.2,45.3
+"WI-08","WI","Congressional District 8 (114th Congress), Wisconsin","08",55,5508,38.6,56.2,47.6,51.3,53.7,45
+"WY-AL","WY","Congressional District (at Large) (114th Congress), Wyoming","01",56,5601,22.5,70.1,27.6,68.2,32.7,65.2
