@@ -9,3 +9,6 @@ Please file an issue if you notice anything wrong!
 In some cases, Daily Kos only has data on a subset of states and in other cases, there was no straightforward merge to the Census files.
 This is a starting point and anyone using this data should be sure to spot-check their own cases. I also have not verified the accuracy
 of Daily Kos's data.
+
+**Updates** as of 6 August 2018 — Additional state legislative districts added, still missing AL, AR, MS and the Nebraska unicam
+
