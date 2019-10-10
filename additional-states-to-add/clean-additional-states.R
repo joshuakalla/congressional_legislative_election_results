@@ -3,7 +3,7 @@ library(tidyverse)
 library(readxl)
 
 
-#setwd('~/Dropbox/Data/congressional_legislative_election_results/additional-dk-data-march-18/')
+setwd('~/Dropbox/Data/congressional_legislative_election_results/additional-states-to-add//')
 
 
 # read existing data to match formatting
@@ -416,5 +416,5 @@ results.upper = ssd.results %>%
 
 # save
 write.csv(results.lower, "../presidential_results_by_lower_chamber.csv")
-write.csv(results.lower, "../presidential_results_by_upper_chamber.csv")
-
+write.csv(results.upper, "../presidential_results_by_upper_chamber.csv")
+x
